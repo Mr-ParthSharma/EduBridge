@@ -4,6 +4,4 @@ under the guidence of EduBridge India.
 NPL-Sentimental Analysis(Main Project)
    This Project is my final project, and I will present it in live session
    
-R- US Unemployment Analysis
-   This is My Mini-Project.
    
